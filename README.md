@@ -1,16 +1,6 @@
 # todo_app_using_getx
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ here is the screenshots ![image](https://user-images.githubusercontent.com/50069878/121782022-3568f980-cbc5-11eb-85fd-756e5e7b2dee.png)
+![image](https://user-images.githubusercontent.com/50069878/121782048-55002200-cbc5-11eb-9af4-29108699cdd7.png)
+![image](https://user-images.githubusercontent.com/50069878/121782054-60534d80-cbc5-11eb-9bfe-8c37d58813e9.png)
+![image](https://user-images.githubusercontent.com/50069878/121782060-66492e80-cbc5-11eb-862b-1e3e8004ee81.png)
+![image](https://user-images.githubusercontent.com/50069878/121782074-7e20b280-cbc5-11eb-9de8-31da82af3b54.png)
